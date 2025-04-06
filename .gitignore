@@ -1,0 +1,26 @@
+# Environment config
+.env
+
+# Data & log files
+sent.json
+log.txt
+
+# Address list
+address.txt
+
+# Dependency folders
+node_modules/
+package-lock.json
+
+# PM2 runtime
+pids/
+*.pid
+*.log
+.pm2/
+
+# VSCode settings (optional)
+.vscode/
+
+# Mac & Linux system files
+.DS_Store
+Thumbs.db
